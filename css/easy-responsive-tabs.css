@@ -154,7 +154,7 @@ h2.resp-tab-active span.resp-arrow {
   border: none;
   border-left: 6px solid transparent;
   border-right: 6px solid transparent;
-  border-bottom:12px solid #ffce14;
+  border-bottom:12px solid #10a7ff;
 }
 
 /*-----------Accordion styles-----------*/
@@ -202,7 +202,7 @@ h2.resp-accordion { display: block; }
 		border-top: 9px solid #1c2020;
 	}
 	h2.resp-tab-active span.resp-arrow {
-		border-bottom: 9px solid #ffce14;
+		border-bottom: 9px solid #10a7ff;
 	}
 }
 @media only screen and (max-width: 384px) {
@@ -213,7 +213,7 @@ h2.resp-accordion { display: block; }
 		border-right: 5px solid transparent;
 	}
 	h2.resp-tab-active span.resp-arrow {
-		border-bottom: 8px solid #ffce14;
+		border-bottom: 8px solid #10a7ff;
 		border-left: 5px solid transparent;
 		border-right: 5px solid transparent;
 	}

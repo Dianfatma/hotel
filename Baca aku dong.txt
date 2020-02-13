@@ -1,0 +1,9 @@
+Hello untuk penggunaannya 
+1. cara booking tinggal di pesan ya, ada di index.php yang di luar 
+2. untuk lihat sistem managementnya masuk ke folder admin ya.
+usernya bisa pakai 'admin'
+passnya bisa pakai 'asd'
+tanpa petik ya
+
+3. untuk db management systemnya ada di hotel.sql 
+
