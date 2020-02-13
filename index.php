@@ -4,7 +4,7 @@ include('db.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>SUNRISE HOTEL</title>
+<title>Dian Fatma HOTEL</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -38,8 +38,8 @@ include('db.php');
 			</div>
 			<div class="contact-bnr-w3-agile">
 				<ul>
-					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">INFO@SUNRISE.COM</a></li>
-					<li><i class="fa fa-phone" aria-hidden="true"></i>+94 (65)222-44-55</li>	
+					<li><i class="fa fa-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">info@cikalua.com</a></li>
+					<li><i class="fa fa-phone" aria-hidden="true"></i>089608646516</li>	
 					<li class="s-bar">
 						<div class="search">
 							<input class="search_box" type="checkbox" id="search_box">
@@ -66,7 +66,7 @@ include('db.php');
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.php">SUN <span>RISE</span><p class="logo_w3l_agile_caption">Your Dreamy Resort</p></a></h1>
+					<h1><a class="navbar-brand" href="index.php">Dian <span>Fatma</span><p class="logo_w3l_agile_caption">Your Dream is Only Dream</p></a></h1>
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
@@ -97,8 +97,8 @@ include('db.php');
 
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>SUN RISE</h4>
-									<h3>We know what you love</h3>
+								<h4>Dian Fatma Hotel</h4>
+									<h3>We Know You Need Holiday</h3>
 										<p>Welcome to our hotels</p>
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
@@ -111,9 +111,9 @@ include('db.php');
 						<div class="w3layouts-banner-top w3layouts-banner-top1">
 							<div class="container">
 								<div class="agileits-banner-info">
-								<h4>SUN RISE</h4>
-									<h3>Stay with friends & families</h3>
-										<p>Come & enjoy precious moment with us</p>
+								<h4>Dian Fatma</h4>
+									<h3>Enjoy dengan selingkuhan :)</h3>
+									
 									<div class="agileits_w3layouts_more menu__item">
 				<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
 			</div>
@@ -121,20 +121,7 @@ include('db.php');
 							</div>
 						</div>
 					</li>
-					<li>
-						<div class="w3layouts-banner-top w3layouts-banner-top2">
-							<div class="container">
-								<div class="agileits-banner-info">
-								<h4>SUN RISE</h4>
-								<h3>want luxurious vacation?</h3>
-										<p>Get accommodation today</p>
-									<div class="agileits_w3layouts_more menu__item">
-											<a href="#" class="menu__link" data-toggle="modal" data-target="#myModal">Learn More</a>
-										</div>
-								</div>
-							</div>
-						</div>
-					</li>
+				
 				</ul>
 			</div>
 			<div class="clearfix"> </div>

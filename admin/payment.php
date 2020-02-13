@@ -10,7 +10,7 @@ if(!isset($_SESSION["user"]))
 <head>
       <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>SUNRISE HOTEL</title>
+    <title>Dian Fatma Hotel</title>
 	<!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
      <!-- FontAwesome Styles-->
@@ -44,12 +44,12 @@ if(!isset($_SESSION["user"]))
                         <i class="fa fa-user fa-fw"></i> <i class="fa fa-caret-down"></i>
                     </a>
                     <ul class="dropdown-menu dropdown-user">
-                        <li><a href="usersetting.php"><i class="fa fa-user fa-fw"></i> User Profile</a>
+                        <li><a href="usersetting.php"><i class="fa fa-user fa-fw"></i>Profile</a>
                         </li>
-                        <li><a href="settings.php"><i class="fa fa-gear fa-fw"></i> Settings</a>
+                        <li><a href="settings.php"><i class="fa fa-gear fa-fw"></i>Settings</a>
                         </li>
                         <li class="divider"></li>
-                        <li><a href="logout.php"><i class="fa fa-sign-out fa-fw"></i> Logout</a>
+                        <li><a href="logout.php"><i class="fa fa-sign-out fa-fw"></i>Logout</a>
                         </li>
                     </ul>
                     <!-- /.dropdown-user -->
@@ -66,16 +66,16 @@ if(!isset($_SESSION["user"]))
                         <a href="home.php"><i class="fa fa-dashboard"></i> Status</a>
                     </li>
                     <li>
-                        <a  href="messages.php"><i class="fa fa-desktop"></i> News Letters</a>
+                        <a  href="messages.php"><i class="fa fa-desktop"></i>Replay</a>
                     </li>
 					<li>
-                        <a href="roombook.php"><i class="fa fa-bar-chart-o"></i>Room Booking</a>
+                        <a href="roombook.php"><i class="fa fa-bar-chart-o"></i>Booking Room</a>
                     </li>
                     <li>
-                        <a class="active-menu" href="payment.php"><i class="fa fa-qrcode"></i> Payment</a>
+                        <a class="active-menu" href="payment.php"><i class="fa fa-qrcode"></i>Payment</a>
                     </li>
                     <li>
-                        <a  href="profit.php"><i class="fa fa-qrcode"></i> Profit</a>
+                        <a  href="profit.php"><i class="fa fa-qrcode"></i>Profit</a>
                     </li>
                     <li>
                         <a href="logout.php" ><i class="fa fa-sign-out fa-fw"></i> Logout</a>
@@ -113,8 +113,8 @@ if(!isset($_SESSION["user"]))
                                             <th>Bed Type</th>
                                             <th>Check in</th>
 											<th>Check out</th>
-											<th>No of Room</th>
-											<th>Meal Type</th>
+											<th>Room Number</th>
+											<th>Add Meals</th>
 											
                                             <th>Room Rent</th>
 											<th>Bed Rent</th>

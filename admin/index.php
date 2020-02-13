@@ -51,7 +51,7 @@
       </div> <!-- end login -->
 
     </div>
-    <div class="bottom">  <h3><a href="../index.php">SUN RISE HOMEPAGE</a></h3></div>
+    <div class="bottom">  <h3><a href="../index.php">Dian Fatma HOMEPAGE</a></h3></div>
   
   
 </body>
