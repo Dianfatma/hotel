@@ -166,28 +166,28 @@ include('db.php');
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_road"></span>
-							<h4 class="cbp-ig-title">MASTER BEDROOMS</h4>
+							<h4 class="cbp-ig-title">Tempat tidur luas jika tidak sempit</h4>
 							<span class="cbp-ig-category">Dian Fatma</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_cube"></span>
-							<h4 class="cbp-ig-title">SEA VIEW BALCONY</h4>
+							<h4 class="cbp-ig-title">Pemandangan indah</h4>
 							<span class="cbp-ig-category">Dian Fatma</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_users"></span>
-							<h4 class="cbp-ig-title">LARGE CAFE</h4>
+							<h4 class="cbp-ig-title">Cafe yang luas jika tidak rame</h4>
 							<span class="cbp-ig-category">Dian Fatma</span>
 						</div>
 					</li>
 					<li>
 						<div class="w3_grid_effect">
 							<span class="cbp-ig-icon w3_ticket"></span>
-							<h4 class="cbp-ig-title">WIFI COVERAGE</h4>
+							<h4 class="cbp-ig-title">WIFI kenceng cuy</h4>
 							<span class="cbp-ig-category">Dian Fatma</span>
 						</div>
 					</li>
